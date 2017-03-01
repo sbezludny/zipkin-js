@@ -1,6 +1,6 @@
 {
-  "name": "zipkin-instrumentation-cujojs-rest",
-  "version": "0.5.1",
+  "name": "@classified/zipkin-instrumentation-cujojs-rest",
+  "version": "0.5.2",
   "description": "Interceptor for instrumenting HTTP calls from the cujoJS rest library",
   "main": "lib/index.js",
   "scripts": {

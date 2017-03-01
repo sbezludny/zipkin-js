@@ -1,6 +1,6 @@
 {
-  "name": "zipkin",
-  "version": "0.5.1",
+  "name": "@classified/zipkin",
+  "version": "0.5.2",
   "description": "The core tracer for zipkin.js",
   "main": "lib/index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 {
-  "name": "zipkin-instrumentation-fetch",
-  "version": "0.5.1",
+  "name": "@classified/zipkin-instrumentation-fetch",
+  "version": "0.5.2",
   "description": "Interceptor for HTTP clients using the 'fetch' API",
   "main": "lib/index.js",
   "scripts": {
