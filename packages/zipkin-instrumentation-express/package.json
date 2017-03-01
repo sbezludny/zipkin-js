@@ -1,6 +1,6 @@
 {
   "name": "@classified/zipkin-instrumentation-express",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Express middleware for instrumentation with Zipkin.js",
   "main": "lib/index.js",
   "scripts": {

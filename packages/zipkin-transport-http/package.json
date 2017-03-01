@@ -1,6 +1,6 @@
 {
   "name": "@classified/zipkin-transport-http",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Transports Zipkin trace data via HTTP",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,9 @@
   },
   "devDependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.13.4",
-    "zipkin": "^0.5.1"
+    "express": "^4.13.4"
+  },
+  "peerDependencies": {
+    "@classified/zipkin": "^0.5.1"
   }
 }

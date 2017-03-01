@@ -1,6 +1,6 @@
 {
   "name": "@classified/zipkin-instrumentation-hapi",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Hapi middleware for instrumentation with Zipkin.js",
   "main": "lib/index.js",
   "scripts": {

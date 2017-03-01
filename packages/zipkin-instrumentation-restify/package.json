@@ -1,6 +1,6 @@
 {
   "name": "@classified/zipkin-instrumentation-restify",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Restify middleware for instrumentation with Zipkin.js",
   "main": "lib/index.js",
   "scripts": {
