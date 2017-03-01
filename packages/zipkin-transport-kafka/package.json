@@ -1,6 +1,6 @@
 {
   "name": "@classified/zipkin-transport-kafka",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Transports Zipkin trace data via Kafka to the collector",
   "main": "lib/index.js",
   "scripts": {

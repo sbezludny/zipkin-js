@@ -1,6 +1,6 @@
 {
   "name": "@classified/zipkin-instrumentation-redis",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Interceptor for redis clients",
   "main": "lib/zipkinClient.js",
   "scripts": {
